@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXbFwYm.png" group-title="Noticias",TN Todo Noticias
-https://stream.tn.com.ar/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V7RbaG6.png" group-title="Noticias",C5N en Vivo
-https://live-edge.c5n.com/c5n/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7fR3p2.png" group-title="Noticias",LN+ (La Nacion Mas)
-https://g05.m9.avustv.com/lanacion/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXbFwYm.png" group-title="Prueba",Pelicula de Prueba
+https://ic-cchannel-plutotv-1-us.top.comcast.net/06a928_7b3_7b_Main_mix.m3u8
