@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7b864a66.png" group-title="Noticias",TN en Vivo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXbFwYm.png" group-title="Noticias",TN Todo Noticias
 https://stream.tn.com.ar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xyz123.png" group-title="Noticias",C5N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7RbaG6.png" group-title="Noticias",C5N en Vivo
 https://live-edge.c5n.com/c5n/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7fR3p2.png" group-title="Noticias",LN+ (La Nacion Mas)
+https://g05.m9.avustv.com/lanacion/live/playlist.m3u8
