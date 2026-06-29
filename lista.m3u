@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXbFwYm.png" group-title="Prueba",Pelicula de Prueba
-https://ic-cchannel-plutotv-1-us.top.comcast.net/06a928_7b3_7b_Main_mix.m3u8
+#EXTINF:-1 group-title="Prueba",RT en Español Live
+https://rt-esp.akamaized.net/hls/live/2018043/rtesp/master.m3u8
+
+#EXTINF:-1 group-title="Prueba",DW Español (Alemania)
+https://dwamdstream104.akamaized.net/hls/live/2013187/dwamdstream104/index.m3u8
+
+#EXTINF:-1 group-title="Prueba",Canal de Prueba NASA TV
+https://ntv1.akamaized.net/hls/live/2014041/NASA-NTV1-HLS/master.m3u8
